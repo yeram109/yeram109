@@ -16,10 +16,9 @@
       <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
 </div>
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-<div align= "center"> 
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Contact </h2> 
+<div> 
     <a href=https://bear-dev.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://bear-dev.tistory.com/"> </a>
      <a href=https://www.instagram.com/yeram_dev/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/yeram_dev/"> </a>
-      </div>  <br> 
-</div> 
+</div>  <br> 
 
