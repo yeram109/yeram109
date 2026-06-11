@@ -9,23 +9,14 @@
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
       <img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?&style=flat-square&logo=tailwind%20css&logoColor=white" />
-      <br/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
-      <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
-      <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
-      <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=flat-square&logo=slack&logoColor=white" />
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white">
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
       </div>
 </div>
 <div align= "center">
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Tools </h2> <br> 
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Tools </h2>
 <div style="margin: 0 auto;>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
       <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
       <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
-      <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=flat-square&logo=slack&logoColor=white" />
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white">
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
       </div>
 </div>
