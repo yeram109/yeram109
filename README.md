@@ -1,5 +1,5 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Tech Stacks </h2> <br> 
-<div style="margin: 0 auto;>
+<div style="margin: 0 auto; align="center">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
       <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
@@ -13,8 +13,7 @@
 </div>
 <div align= "center">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Tools </h2>
-<div style="margin: 0 auto;>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
+<div style="margin: 0 auto; align="center">
       <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
       <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
